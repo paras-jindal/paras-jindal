@@ -1,6 +1,11 @@
 # 💫 About Me:
-Hi there! I'm Paras Jindal, a software engineer with 2 years of experience in backend development. <br>I have expertise in Python, Javascript, Dart, Data Analytics and have worked on various projects involving eCommerce ,cab booking app, job portal.<br> In addition to my backend skills, I'm also interested in data analytics and have experience with AWS services like kinesis, athena , ELK. <br>I'm passionate about using technology to solve real-world problems and always eager to learn and take on new challenges
+👋 Hey there! I'm [Your Name], a seasoned backend engineer with a strong technical background. I specialize in developing scalable and efficient systems, leveraging my expertise in Python and relational databases.
 
+I have hands-on experience working with various technologies and frameworks, including MongoDB, Express.js, jQuery, Flutter, Node.js, and MongoDB. My problem-solving skills and ability to work both independently and collaboratively have been instrumental in delivering successful solutions.
+
+With excellent written and verbal communication skills, I thrive in team environments and enjoy tackling challenges head-on. My commitment to continuous learning and keeping up with the latest industry trends allows me to stay at the forefront of technology.
+
+Let's connect and explore new opportunities in the coding world. Check out my GitHub repositories and let's create something amazing together! 💻
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/paras-jindal-a0120717a/) 
