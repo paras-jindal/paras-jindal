@@ -1,7 +1,7 @@
 # 💫 About Me:
-👋 Hey there! I'm [Your Name], a seasoned backend engineer with a strong technical background. I specialize in developing scalable and efficient systems, leveraging my expertise in Python and relational databases.
+👋 Hey there! I'm Paras Jindal, a seasoned backend engineer with a strong technical background. I specialize in developing scalable and efficient systems, leveraging my expertise in Python and relational databases.
 
-I have hands-on experience working with various technologies and frameworks, including MongoDB, Express.js, jQuery, Flutter, Node.js, and MongoDB. My problem-solving skills and ability to work both independently and collaboratively have been instrumental in delivering successful solutions.
+I have hands-on experience working with various technologies and frameworks, including MongoDB, Django, Express.js, jQuery, Flutter, Node.js MongoDB etc (rest is mentioned below). My problem-solving skills and ability to work both independently and collaboratively have been instrumental in delivering successful solutions.
 
 With excellent written and verbal communication skills, I thrive in team environments and enjoy tackling challenges head-on. My commitment to continuous learning and keeping up with the latest industry trends allows me to stay at the forefront of technology.
 
